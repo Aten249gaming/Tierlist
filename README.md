@@ -1,0 +1,2 @@
+# Tierlist
+bot
